@@ -26,5 +26,4 @@ Our vision for **As Well** is to create a truly universal messaging platform, br
 
 For any licensing inquiries, please contact [aswella.com].
 
-## 
-
+##
